@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notes_keeper_app/static/css/main.19389b05.css",
+    "main.js": "/notes_keeper_app/static/js/main.41c96eb7.js",
+    "index.html": "/notes_keeper_app/index.html",
+    "main.19389b05.css.map": "/notes_keeper_app/static/css/main.19389b05.css.map",
+    "main.41c96eb7.js.map": "/notes_keeper_app/static/js/main.41c96eb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19389b05.css",
+    "static/js/main.41c96eb7.js"
+  ]
+}
