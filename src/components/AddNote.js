@@ -11,7 +11,7 @@ const AddNote = ({handleAddNote}) => {
     }
     const handleClick = () => {
         if(text.trim().length == 0){
-            alert("Please add a todo")
+            alert("Please add a note")
         }else{
             handleAddNote(text.trim());
             setText('');
